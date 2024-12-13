@@ -1,0 +1,9 @@
+﻿Day_Periods,Source,Count of saleId
+Morning 6AM-12PM,STORE,50
+Afternoon 12PM-4PM,MOBILE,5
+Afternoon 12PM-4PM,STORE,183
+Afternoon 12PM-4PM,WEB,11
+Evening 4PM-9PM,MOBILE,17
+Evening 4PM-9PM,STORE,384
+Evening 4PM-9PM,WEB,7
+Night 9PM-12PM,STORE,14
